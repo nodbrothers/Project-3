@@ -6,3 +6,4 @@ def num_reverse(num):
 
 
 print(num_reverse(int(input())))
+print()
