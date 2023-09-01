@@ -11,4 +11,5 @@ def imt(m, h):
 
 
 m, h = float(input()), float(input())
+print()
 print(imt(m, h))
